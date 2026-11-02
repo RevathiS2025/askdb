@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain_groq
+psycopg[binary]
+pymysql
+cryptography
+pandas
+sqlalchemy
+streamlit
